@@ -77,7 +77,7 @@ python dataset.py
 ## 📧 Contact
 
 For more information, collaborations, or inquiries:
-- Email: [shashankbhat1804@gmail.com](mailto:spoorthysbhat@gmail.com)
+- Email: [spoorthysbhat@gmail.com](mailto:spoorthysbhat@gmail.com)
 
 
 ---
