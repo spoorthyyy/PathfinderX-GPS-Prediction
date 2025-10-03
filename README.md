@@ -1,4 +1,4 @@
-# <p align="center">🛩️ PathFinderX 🌍</p>
+\# <p align="center">🛩️ PathFinderX 🌍</p>
 
 ## 🌎 Overview
 
@@ -73,20 +73,12 @@ python dataset.py
   - Implement Dead Reckoning to predict with a higher accuracy
   - Deep learning implementation for a deeper understanding of the historical data relating to weather patterns and other latent features
 
-## ✨ Contributors
-
-Contributions are always welcome! Please check our [Contributing Guidelines](/CONTRIBUTING.md)
-
-<a href="https://github.com/tejas2510/PathFinderX/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tejas2510/PathFinderX" />
-</a>
 
 ## 📧 Contact
 
 For more information, collaborations, or inquiries:
-- Email: [shashankbhat1804@gmail.com](mailto:Shashankbhat1804@gmail.com)
-- Discord: #Shawshank
-- Project Link: [GitHub - PathFinderX]((https://github.com/ShashankBhat-18/PathfinderX-GPS-Prediction))
+- Email: [shashankbhat1804@gmail.com](mailto:spoorthysbhat@gmail.com)
+
 
 ---
 
